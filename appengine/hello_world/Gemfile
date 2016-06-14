@@ -16,6 +16,10 @@
 source "https://rubygems.org"
 
 gem "sinatra"
+gem "csv"
+gem "pry"
+gem "stuff-classifier"
+gem "rubygems"
 # [END dependencies]
 
 group :test do
